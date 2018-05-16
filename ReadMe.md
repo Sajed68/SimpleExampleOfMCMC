@@ -6,9 +6,11 @@ from scipy import stats
 %matplotlib inline
 ```
 
-<p style="dir:rtl;text-align:justify;font-family:Vazir;font-size:12pt;line-height:1.5">  
-***ایجاد پایگاه داده***
-    
+<p dir='rtl' align='right'>  
+    <b> ایجاد پایگاه داده </b>
+ </p>
+ 
+<p dir='rtl' align='right'>
     در اولین قدم، ما تعدادی داده که می‌خواهیم مدلمان را بر روی آن‌ها برازش کنیم، را ایجاد می‌نماییم. بیایید فرض کنیدم که یک رابطه خطی بین تخمین‌گر و متغیرهای پاسخ است، بنابراین ما یک مدل خطی به همراه نویز جمع شونده در نظر می‌گیریم.
 </p>
 
@@ -33,7 +35,7 @@ plt.title("Test Data");
 ![png](output_2_0.png)
 
 
-<p style="direction:rtl;text-align:justify;font-family:Vazir;font-size:12pt;line-height:1.5">
+<p dir='rtl' align='justify' font-family='Vazir' font-size='12pt' line-height='1.5'>
 مقدار 
     x
    را حول صفر متعادل در نظر گرفتیم برای این که شیب و عرض از مبداء نا همبسته باشند. نتایج تصویری شبیه تصویر بالا خواهد شد.
