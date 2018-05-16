@@ -6,8 +6,9 @@ from scipy import stats
 %matplotlib inline
 ```
 
-<p style="direction:rtl;text-align:justify;font-family:Vazir;font-size:12pt;line-height:1.5">
-***ایجاد پایگاه داده***    
+<p style="dir:rtl;text-align:justify;font-family:Vazir;font-size:12pt;line-height:1.5">  
+***ایجاد پایگاه داده***
+    
     در اولین قدم، ما تعدادی داده که می‌خواهیم مدلمان را بر روی آن‌ها برازش کنیم، را ایجاد می‌نماییم. بیایید فرض کنیدم که یک رابطه خطی بین تخمین‌گر و متغیرهای پاسخ است، بنابراین ما یک مدل خطی به همراه نویز جمع شونده در نظر می‌گیریم.
 </p>
 
